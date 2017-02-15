@@ -61,7 +61,7 @@ bool sendStatus = false;                                     // (Do not Change)
 bool requestRestart = false;                                 // (Do not Change)
 bool tempReport = false;                                     // (Do not Change)
 
-int kUpdFreq = 1;                                            // Update frequency in Mintes to check for mqtt connection
+int kUpdFreq = 1;                                            // Update frequency in Minutes to check for mqtt connection
 int kRetries = 10;                                           // WiFi retry count. Increase if not connecting to router.
 int lastRelayState;                                          // (Do not Change)
 
